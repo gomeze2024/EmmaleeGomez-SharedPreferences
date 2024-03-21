@@ -1,4 +1,4 @@
-package com.example.emmaleegomez_sharedpreferences
+package com.example.emmaleegomez_sharedpreference
 
 import org.junit.Test
 

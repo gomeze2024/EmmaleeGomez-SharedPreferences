@@ -1,4 +1,4 @@
-package com.example.emmaleegomez_sharedpreferences
+package com.example.emmaleegomez_sharedpreference
 
 import android.content.Context
 import androidx.datastore.core.DataStore

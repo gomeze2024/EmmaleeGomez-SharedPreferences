@@ -1,4 +1,4 @@
-package com.example.emmaleegomez_sharedpreferences
+package com.example.emmaleegomez_sharedpreference
 
 import android.os.Bundle
 import android.view.View
@@ -9,8 +9,9 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import androidx.core.widget.doOnTextChanged
 import androidx.lifecycle.lifecycleScope
+import com.example.emmaleegomez_sharedpreference.PreferencesRepository
+import com.example.emmaleegomez_sharedpreference.R
 import kotlinx.coroutines.launch
 import kotlin.random.Random
 
